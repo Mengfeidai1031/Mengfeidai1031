@@ -15,9 +15,9 @@ $ git log --oneline --reverse mi-trayectoria
 2019  init     soporte informático y presencia digital del restaurante familiar
 2022  feat     comienzo Ingeniería Informática en la ULPGC
 2024  cert     Red Hat Academy: Linux Fundamentals + System Administration I y II
-2026  feat     prácticas en Grupo Ari Motor: unifico 3 apps de grúas en un Laravel multitenant
-2026  release  TFG — Vexis, ERP de automoción con IA: 9,4
-2026  merge    graduado en Ingeniería Informática (media de 9,2 en 4.º curso)
+2026  feat     prácticas en Grupo Ari Motor
+2026  release  TFG — Vexis
+2026  merge    graduado en Ingeniería Informática
 2026  feat     contratado como Full Stack en Grupo Ari Motor
 2026  feat     Máster en Desarrollo de Sitios y Aplicaciones Web (UOC)
 
@@ -91,7 +91,7 @@ Tres sistemas completos sobre AWS, cada uno con infraestructura como código, sc
 
 ## Idiomas
 
-**Español** nativo · **中文** nativo · **English** B2
+**Español** nativo · **中文** nativo · **English** intermedio
 
 ---
 
