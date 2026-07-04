@@ -85,6 +85,7 @@ Tres sistemas completos sobre AWS, cada uno con infraestructura como código, sc
 
 - **[graphics-playground](https://github.com/Mengfeidai1031/graphics-playground)** — gráficos por computador: sistema solar 3D, visualización de tráfico aéreo, shaders GLSL, juego VR para WebXR y un juego de carreras en Unity.
 - **[java-playground](https://github.com/Mengfeidai1031/java-playground)** — katas de diseño y refactorización, y pequeñas aplicaciones Java de escritorio.
+- **[ai-playground](https://github.com/Mengfeidai1031/ai-playground)** — algoritmos de búsqueda clásicos (BFS, DFS, Branch & Bound) y clasificadores de imágenes con CNN en PyTorch (77,3 % → 88,7 % con transfer learning). En pareja con [Gabriel Dominguez Torres](https://github.com/GabrielDT13).
 
 ---
 
@@ -185,6 +186,7 @@ Three complete AWS systems, each with infrastructure as code, deployment scripts
 
 - **[graphics-playground](https://github.com/Mengfeidai1031/graphics-playground)** — computer graphics: 3D solar system, air-traffic visualisation, GLSL shaders, a WebXR VR game and a Unity racing game.
 - **[java-playground](https://github.com/Mengfeidai1031/java-playground)** — design and refactoring katas, plus small Java desktop apps.
+- **[ai-playground](https://github.com/Mengfeidai1031/ai-playground)** — classic search algorithms (BFS, DFS, Branch & Bound) and CNN image classifiers in PyTorch (77.3% → 88.7% with transfer learning). Paired with [Gabriel Dominguez Torres](https://github.com/GabrielDT13).
 
 ---
 
