@@ -1,6 +1,6 @@
 <h1 align="center">Meng Fei Dai</h1>
 
-<p align="center"><strong>Desarrollador Full Stack</strong> · Ingeniero Informático · Gran Canaria, España</p>
+<p align="center"><strong>Ingeniero de Software</strong> · Full-Stack & DevOps · Graduado en Ingeniería Informática · Gran Canaria, España</p>
 
 <p align="center">
   <a href="https://mengfeidai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge" alt="Portfolio" /></a>
