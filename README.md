@@ -65,10 +65,10 @@ Tres proyectos desarrollados con metodología ágil en equipos de 3 a 6 personas
 
 ### Proyectos personales
 
-**[Brindi](https://github.com/Mengfeidai1031/Brindi)** — PWA para grupos de amigos que quedan en persona: divide cuentas con OCR de tickets por IA, juegos para decidir (ruleta, cartas, quizzes) y generador de planes con IA según ubicación y presupuesto. Monorepo con privacidad por diseño: nada sensible se persiste.
+**[Brindi](https://github.com/Mengfeidai1031/Brindi)** - PWA para grupos de amigos que quedan en persona: divide cuentas con OCR de tickets por IA, juegos para decidir (ruleta, cartas, quizzes) y generador de planes con IA según ubicación y presupuesto. Monorepo con privacidad por diseño: nada sensible se persiste.
 `Next.js 15` `NestJS` `Prisma` `PostgreSQL` `Redis` `FastAPI` `Gemini` `Docker`
 
-**[ticket-scraper](https://github.com/Mengfeidai1031/ticket-scraper)** — Extractor de listados de entradas en tiempo real (sección, fila, precio) desde VividSeats y SeatGeek, lidiando con protecciones anti-bot (PerimeterX, DataDome) mediante navegador headless y degradación controlada.
+**[ticket-scraper](https://github.com/Mengfeidai1031/ticket-scraper)** - Extractor de listados de entradas en tiempo real (sección, fila, precio) desde VividSeats y SeatGeek, lidiando con protecciones anti-bot (PerimeterX, DataDome) mediante navegador headless y degradación controlada.
 `PHP (MVC)` `Node.js` `Puppeteer`
 
 ### En la nube
@@ -83,9 +83,9 @@ Tres sistemas completos sobre AWS, cada uno con infraestructura como código, sc
 
 ### Donde experimento
 
-- **[graphics-playground](https://github.com/Mengfeidai1031/graphics-playground)** — gráficos por computador: sistema solar 3D, visualización de tráfico aéreo, shaders GLSL, juego VR para WebXR y un juego de carreras en Unity.
-- **[java-playground](https://github.com/Mengfeidai1031/java-playground)** — katas de diseño y refactorización, y pequeñas aplicaciones Java de escritorio.
-- **[ai-playground](https://github.com/Mengfeidai1031/ai-playground)** — algoritmos de búsqueda clásicos (BFS, DFS, Branch & Bound) y clasificadores de imágenes con CNN en PyTorch (77,3 % → 88,7 % con transfer learning). En pareja con [Gabriel Dominguez Torres](https://github.com/GabrielDT13).
+- **[graphics-playground](https://github.com/Mengfeidai1031/graphics-playground)** - gráficos por computador: sistema solar 3D, visualización de tráfico aéreo, shaders GLSL, juego VR para WebXR y un juego de carreras en Unity.
+- **[java-playground](https://github.com/Mengfeidai1031/java-playground)** - katas de diseño y refactorización, y pequeñas aplicaciones Java de escritorio.
+- **[ai-playground](https://github.com/Mengfeidai1031/ai-playground)** - algoritmos de búsqueda clásicos (BFS, DFS, Branch & Bound) y clasificadores de imágenes con CNN en PyTorch (77,3 % → 88,7 % con transfer learning).
 
 ---
 
@@ -97,10 +97,10 @@ Tres sistemas completos sobre AWS, cada uno con infraestructura como código, sc
 
 ### Formación y certificaciones
 
-- **Máster U. en Desarrollo de Sitios y Aplicaciones Web** — UOC (desde sep. 2026)
-- **Grado en Ingeniería Informática** — ULPGC (2022–2026) · Matrícula de Honor en Programación, Computación en la Nube, Desarrollo de Aplicaciones y Seguridad de la Información
-- **Red Hat Academy** — Linux Fundamentals (RH104), System Administration I (RH124) y II (RH134)
-- **BIG school** — Desarrollo con IA: Programa con Agentes
+- **Máster U. en Desarrollo de Sitios y Aplicaciones Web** - UOC (desde sep. 2026)
+- **Grado en Ingeniería Informática** - ULPGC (2022–2026) · Matrícula de Honor en Programación, Computación en la Nube, Desarrollo de Aplicaciones y Seguridad de la Información
+- **Red Hat Academy** - Linux Fundamentals (RH104), System Administration I (RH124) y II (RH134)
+- **BIG school** - Desarrollo con IA: Programa con Agentes
 
 ### Idiomas
 
@@ -166,10 +166,10 @@ Three projects built with agile methodology in teams of 3 to 6, with sprints, bo
 
 ### Personal projects
 
-**[Brindi](https://github.com/Mengfeidai1031/Brindi)** — PWA for groups of friends meeting in person: splits bills with AI receipt OCR, decision games (roulette, cards, quizzes) and an AI plan generator based on location and budget. Full-stack monorepo with privacy by design: nothing sensitive is persisted.
+**[Brindi](https://github.com/Mengfeidai1031/Brindi)** - PWA for groups of friends meeting in person: splits bills with AI receipt OCR, decision games (roulette, cards, quizzes) and an AI plan generator based on location and budget. Full-stack monorepo with privacy by design: nothing sensitive is persisted.
 `Next.js 15` `NestJS` `Prisma` `PostgreSQL` `Redis` `FastAPI` `Gemini` `Docker`
 
-**[ticket-scraper](https://github.com/Mengfeidai1031/ticket-scraper)** — Real-time ticket listing extractor (section, row, price) from VividSeats and SeatGeek, working around anti-bot protections (PerimeterX, DataDome) with a headless browser and graceful degradation.
+**[ticket-scraper](https://github.com/Mengfeidai1031/ticket-scraper)** - Real-time ticket listing extractor (section, row, price) from VividSeats and SeatGeek, working around anti-bot protections (PerimeterX, DataDome) with a headless browser and graceful degradation.
 `PHP (MVC)` `Node.js` `Puppeteer`
 
 ### In the cloud
@@ -184,9 +184,9 @@ Three complete AWS systems, each with infrastructure as code, deployment scripts
 
 ### Where I experiment
 
-- **[graphics-playground](https://github.com/Mengfeidai1031/graphics-playground)** — computer graphics: 3D solar system, air-traffic visualisation, GLSL shaders, a WebXR VR game and a Unity racing game.
-- **[java-playground](https://github.com/Mengfeidai1031/java-playground)** — design and refactoring katas, plus small Java desktop apps.
-- **[ai-playground](https://github.com/Mengfeidai1031/ai-playground)** — classic search algorithms (BFS, DFS, Branch & Bound) and CNN image classifiers in PyTorch (77.3% → 88.7% with transfer learning). Paired with [Gabriel Dominguez Torres](https://github.com/GabrielDT13).
+- **[graphics-playground](https://github.com/Mengfeidai1031/graphics-playground)** - computer graphics: 3D solar system, air-traffic visualisation, GLSL shaders, a WebXR VR game and a Unity racing game.
+- **[java-playground](https://github.com/Mengfeidai1031/java-playground)** - design and refactoring katas, plus small Java desktop apps.
+- **[ai-playground](https://github.com/Mengfeidai1031/ai-playground)** - classic search algorithms (BFS, DFS, Branch & Bound) and CNN image classifiers in PyTorch (77.3% → 88.7% with transfer learning).
 
 ---
 
@@ -198,10 +198,10 @@ Three complete AWS systems, each with infrastructure as code, deployment scripts
 
 ### Education & certifications
 
-- **Master's in Web Application Development** — UOC (since Sep 2026)
-- **BSc in Computer Engineering** — ULPGC (2022–2026) · Honours in Programming, Cloud Computing, Application Development and Information Security
-- **Red Hat Academy** — Linux Fundamentals (RH104), System Administration I (RH124) & II (RH134)
-- **BIG school** — AI Development: Programming with Agents
+- **Master's in Web Application Development** - UOC (since Sep 2026)
+- **BSc in Computer Engineering** - ULPGC (2022–2026) · Honours in Programming, Cloud Computing, Application Development and Information Security
+- **Red Hat Academy** - Linux Fundamentals (RH104), System Administration I (RH124) & II (RH134)
+- **BIG school** - AI Development: Programming with Agents
 
 ### Languages
 
